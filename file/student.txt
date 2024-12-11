@@ -1,0 +1,4 @@
+{'name': 'ww', 'family': 'ww', 'gender': 'male', 'birthDay': '112233', 'nationalCode': '11', 'studentId': '11', 'owner': 'ww'}
+{'name': 'rr', 'family': 'rr', 'gender': 'male', 'birthDay': '112233', 'nationalCode': '22', 'studentId': '22', 'owner': 'ww'}
+{'name': 'tt', 'family': 'tt', 'gender': 'male', 'birthDay': '112233', 'nationalCode': '33', 'studentId': '33', 'owner': 'ww'}
+{'name': 'ff', 'family': 'ff', 'gender': 'male', 'birthDay': '112233', 'nationalCode': '44', 'studentId': '44', 'owner': 'ww'}
